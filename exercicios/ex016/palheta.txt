@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Twisted-Lily-1-hex { color: #272D33; }
+.Twisted-Lily-2-hex { color: #2C5159; }
+.Twisted-Lily-3-hex { color: #819FA6; }
+.Twisted-Lily-4-hex { color: #E6DDCB; }
+.Twisted-Lily-5-hex { color: #D17E13; }
+
+/* Color Theme Swatches in RGBA */
+.Twisted-Lily-1-rgba { color: rgba(39, 45, 51, 1); }
+.Twisted-Lily-2-rgba { color: rgba(44, 81, 89, 1); }
+.Twisted-Lily-3-rgba { color: rgba(129, 159, 166, 1); }
+.Twisted-Lily-4-rgba { color: rgba(230, 221, 203, 1); }
+.Twisted-Lily-5-rgba { color: rgba(209, 126, 19, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Twisted-Lily-1-hsla { color: hsla(210, 13, 17, 1); }
+.Twisted-Lily-2-hsla { color: hsla(190, 33, 26, 1); }
+.Twisted-Lily-3-hsla { color: hsla(191, 17, 57, 1); }
+.Twisted-Lily-4-hsla { color: hsla(40, 35, 84, 1); }
+.Twisted-Lily-5-hsla { color: hsla(33, 83, 44, 1); }
