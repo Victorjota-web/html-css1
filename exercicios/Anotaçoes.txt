@@ -62,3 +62,19 @@ pegue outro ex, laranja e ache o azul (complementar)
 Monocromia
 pegue uma cor e mude 2 caracteristicas
 saturaçao e brilho
+
+
+*{
+   margin:0px
+   padding: 0px
+}
+
+para colar o conteudo ao topo e as laterais
+
+
+::-webkit-scrollbar{
+    margin:0px
+    padding: 0px
+}
+
+para esconder a barra de rolagem lateral
