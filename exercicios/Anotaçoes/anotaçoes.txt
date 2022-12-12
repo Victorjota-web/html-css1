@@ -1,0 +1,5 @@
+display: flex
+botar coisas um do lado da outra
+
+gap: 3rem
+para dar espaçamento
