@@ -3,3 +3,26 @@ botar coisas um do lado da outra
 
 gap: 3rem
 para dar espaçamento
+
+<fieldset>
+para fazer agrupamento das requisiçoes de um formulario
+
+<legend>
+como se fosse o titulo desse agrupamento 
+e informar oq sera pedido e afins
+
+<input> Checkbox
+para fazer caixa de marcar e desmarcar
+
+label com id
+para relacionar a palavra com o objeto 
+ou caixa
+
+<input> radio
+para uma marcação, que so da pra escolher um
+como sexo e afins
+
+(para corrigir quando o erro de marcar os 2, basta botar o mesmo "name" no input)
+
+checked (dentro e ao fim do input)
+para ja aparecer marcado de antemão 
