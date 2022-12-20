@@ -26,3 +26,25 @@ como sexo e afins
 
 checked (dentro e ao fim do input)
 para ja aparecer marcado de antemão 
+
+<input> color
+para selecionar cor
+value com o codigo da cor em hexadecimal para botar uma cor padrao
+
+<input> range
+para nivel de satisfaçao
+min e max para definir minimo de nivel padrao e maximo padrao
+
+<input> file 
+para o usuario escolher um arquivo e enviar 
+como uma foto de perfil
+(quando usado este tipo de controle como envio de arquivo, usar metodo post inves de get)
+
+width: 100%
+overflow-x: hidden;
+
+para tirar a barra de rolagem horizontal
+
+margin: 0 auto;
+técnica milenar para alinhar as coisas ao centro
+

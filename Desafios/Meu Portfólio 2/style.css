@@ -49,6 +49,12 @@ section.module.content{
     background: #ece7d5;
 }
 
+img{
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+}
+
 section.module.parallax{
     display: flex;
     flex-direction: column;
